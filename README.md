@@ -6,7 +6,7 @@ I am a frontend-developer from Belgorod <img src="https://upload.wikimedia.org/w
 
 I mostly do JavaScript (my first language) and it's frameworks — but I love to learn new things and I try not to limit myself in anything.
 
-Now I am in search of a permanent job, and in my free time I continue to study and carry out one-time orders. If you want to suggest something — please contact Telegram [@ohray](https://t.me/ohray) or write to [ooohrayyy@gmail.com](mailto:ooohrayyy@gmail.com).
+Now I am in search of a permanent job, and in my free time I continue to study and carry out one-time orders. If you want to suggest something — please contact Telegram [@ohray](https://t.me/ohray) or write to [ooohrayyy@gmail.com](mailto:ooohrayyy@gmail.com). Check out my [LinkedIn profile](https://www.linkedin.com/in/ohray/).
 
 **My stack:**
 
