@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Boris Nikitashov, I'm 25 years old front-end developer from Belgorod <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Flag_of_Belgorod.svg/1200px-Flag_of_Belgorod.svg.png" alt="Flag of Belgorod" width="20px" height="13px"> (last 8 years I live in St. Petersburg <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Saint_Petersburg.svg" alt="Flag of St. Petersburg" width="20px" height="13px">).
+My name is Boris Nikitashov, I'm 26 years old front-end developer from Belgorod <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Flag_of_Belgorod.svg/1200px-Flag_of_Belgorod.svg.png" alt="Flag of Belgorod" width="20px" height="13px"> (last 8 years I live in St. Petersburg <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Saint_Petersburg.svg" alt="Flag of St. Petersburg" width="20px" height="13px">).
 
 I mostly do JavaScript and it's frameworks — but I love to learn new things and I try not to limit myself in anything.
 
