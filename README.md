@@ -4,9 +4,9 @@ My name is Boris Nikitashov, I'm 26 years old front-end developer from Belgorod 
 
 I mostly do JavaScript and it's frameworks — but I love to learn new things and I try not to limit myself in anything.
 
-Currently at [La Redoute](https://www.laredoute.com/).
+Currently at [innoscripta](http://innoscripta.com).
 
-If you want to contact me, see Telegram [@ohray](https://t.me/ohray) or write to [ooohrayyy@gmail.com](mailto:ooohrayyy@gmail.com). Check out my [LinkedIn profile](https://www.linkedin.com/in/ohray/).
+If you want to contact me, see Telegram [@ohray](https://t.me/ohray) or write to [ooohrayyy@gmail.com](mailto:ooohrayyy@gmail.com). Check out my [LinkedIn profile](https://www.linkedin.com/in/ohray).
 
 **My stack:**
 
