@@ -4,7 +4,7 @@ My name is Boris Nikitashov, I'm 26 years old Frontend Developer from Belgorod <
 
 I mostly do JavaScript and it's frameworks — but I love to learn new things and I try not to limit myself in anything.
 
-**Currently open to work.**
+💼 Currently at [Tochka](https://tochka.com/).
 
 If you want to contact me, see Telegram [@ohray](https://t.me/ohray) or write to [ooohrayyy@gmail.com](mailto:ooohrayyy@gmail.com). Check out my [LinkedIn profile](https://www.linkedin.com/in/ohray).
 
