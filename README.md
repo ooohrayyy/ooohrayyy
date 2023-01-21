@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-My name is Boris Nikitashov, I'm 26 years old Frontend Developer from Belgorod <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" alt="Flag of Russia" width="20px" height="13px"> (currently based in Istanbul <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Flag of Istanbul" width="20px" height="13px">).
+My name is Boris Nikitashov, I'm 27 years old Frontend Developer from Belgorod <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" alt="Flag of Russia" width="20px" height="13px"> (currently based in Istanbul <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Flag of Istanbul" width="20px" height="13px">).
 
-I mostly do JavaScript and it's frameworks — but I love to learn new things and I try not to limit myself in anything.
+I mostly do TypeScript, JavaScript and React — but I love to learn new things and I try not to limit myself in anything.
 
 💼 Currently at [Tochka](https://tochka.com/).
 
